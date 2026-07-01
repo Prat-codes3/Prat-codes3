@@ -4,6 +4,7 @@
 * 🔧 Skilled in **Python, C/C++, JavaScript**
 * 🧠 Exploring **Local Edge AI Deployment, Audio & Speech Processing**, Data Stuctures & algorithms
 * 💼 Actively working on **MedScribe**, and backend systems for platforms
+* Quality Code is What I Like
 
 ### 🌐 Socials:
 
