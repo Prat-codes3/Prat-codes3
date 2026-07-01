@@ -1,9 +1,9 @@
 ### 👨‍💻
 
-* 🎓 B.Tech in Computer Science and Engineering at Malaviya National Institute Of Technology, Jaipur[cite: 1]
-* 🔧 Skilled in **Python, C/C++, JavaScript**[cite: 1]
-* 🧠 Exploring **Local Edge AI Deployment, Audio & Speech Processing**, Data Stuctures & algorithms[cite: 1]
-* 💼 Actively working on **MedScribe**, and backend systems for platforms [cite: 1]
+* 🎓 B.Tech in Computer Science and Engineering at Malaviya National Institute Of Technology, Jaipur
+* 🔧 Skilled in **Python, C/C++, JavaScript**
+* 🧠 Exploring **Local Edge AI Deployment, Audio & Speech Processing**, Data Stuctures & algorithms
+* 💼 Actively working on **MedScribe**, and backend systems for platforms
 
 ### 🌐 Socials:
 
